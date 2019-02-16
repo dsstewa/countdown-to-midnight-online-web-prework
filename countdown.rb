@@ -10,3 +10,6 @@ end
 "HAPPY NEW YEAR!"
 
 end
+
+
+def count
