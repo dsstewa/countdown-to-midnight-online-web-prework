@@ -7,7 +7,5 @@ number = x
   number -= 1
 
 end
-if number == 0
-  puts "HAPPY NEW YEAR!"
-end
+puts "HAPPY NEW YEAR!"
 end
